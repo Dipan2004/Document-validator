@@ -1,0 +1,49 @@
+# -----------------------
+# Python
+# -----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# -----------------------
+# Streamlit
+# -----------------------
+.streamlit/
+
+# -----------------------
+# Docker
+# -----------------------
+*.dockerignore
+Dockerfile
+docker-compose.yml
+*.env
+
+# -----------------------
+# IDEs / Editors
+# -----------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------
+# OS files
+# -----------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------
+# Logs and temp files
+# -----------------------
+*.log
+*.tmp
+*.swp
