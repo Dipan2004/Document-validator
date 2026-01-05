@@ -308,21 +308,3 @@ This is an assignment project, but improvements are welcome:
 2. Create a feature branch
 3. Add tests for new features
 4. Submit a pull request
-
-## 📄 License
-
-This project is created for the Genoshi Technologies LLP technical assessment.
-
-## 👨‍💻 Author
-
-Senior Backend + AI Engineer Candidate
-
-## 🙏 Acknowledgments
-
-- **FastAPI** for the excellent web framework
-- **Google Gemini** for powerful AI capabilities
-- **Genoshi Technologies LLP** for the interesting challenge
-
----
-
-**Note**: Remember to keep your `.env` file secure and never commit it to version control!
