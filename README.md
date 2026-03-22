@@ -1,4 +1,4 @@
-# Mini Document Validator 🚢
+# Mini Document Validator 🚢 
 
 A production-grade FastAPI microservice that validates insurance documents using Google Gemini AI. Built for **Genoshi Technologies LLP** assignment.
 
